@@ -1,0 +1,93 @@
+[
+    {
+      "Activity": "",
+      "Category": "",
+      "Season": "",
+      "Location": "",
+      "Solo": ""
+    },
+    {
+      "Activity": "Treadmill",
+      "Category": "",
+      "Season": "Both",
+      "Location": "Indoor",
+      "Solo": "Yes"
+    },
+    {
+      "Activity": "Walk",
+      "Category": "",
+      "Season": "Both",
+      "Location": "Outdoor",
+      "Solo": "Yes"
+    },
+    {
+      "Activity": "Yoga",
+      "Category": "",
+      "Season": "Both",
+      "Location": "Indoor",
+      "Solo": "Yes"
+    },
+    {
+      "Activity": "Dancing",
+      "Category": "",
+      "Season": "Both",
+      "Location": "Indoor",
+      "Solo": "Yes"
+    },
+    {
+      "Activity": "Tennis",
+      "Category": "",
+      "Season": "Summer",
+      "Location": "Outdoor",
+      "Solo": "No"
+    },
+    {
+      "Activity": "ping pong",
+      "Category": "",
+      "Season": "Both",
+      "Location": "Indoor",
+      "Solo": "No"
+    },
+    {
+      "Activity": "balloon game",
+      "Category": "",
+      "Season": "Both",
+      "Location": "Indoor",
+      "Solo": "No"
+    },
+    {
+      "Activity": "biking/scooter",
+      "Category": "",
+      "Season": "Summer",
+      "Location": "Outdoor",
+      "Solo": "Yes"
+    },
+    {
+      "Activity": "golf",
+      "Category": "",
+      "Season": "Summer",
+      "Location": "Outdoor",
+      "Solo": "Yes"
+    },
+    {
+      "Activity": "hiking",
+      "Category": "",
+      "Season": "Summer",
+      "Location": "Outdoor",
+      "Solo": "Yes"
+    },
+    {
+      "Activity": "canoeing",
+      "Category": "",
+      "Season": "Summer",
+      "Location": "Outdoor",
+      "Solo": "No"
+    },
+    {
+      "Activity": "swimming",
+      "Category": "",
+      "Season": "Summer",
+      "Location": "Outdoor",
+      "Solo": "Yes"
+    }
+   ]
