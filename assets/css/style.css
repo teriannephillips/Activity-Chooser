@@ -12,6 +12,16 @@ h1 {
 }
 h2 {
     font-size: 125%;
+    margin:1%;
+}
+form {
+    margin:1%;
+}
+p {
+    margin-bottom: 1%;
+}
+td {
+    width: 8rem;
 }
 .columns {
     display: flex;
